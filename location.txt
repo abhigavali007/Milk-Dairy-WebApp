@@ -1,0 +1,15 @@
+<div style="display:block;text-align: center;">
+          <iframe  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2356.649649797173!2d75.32592878189016!3d17.961955595877782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1618994276998!5m2!1sen!2sin" width="700" height="500" style="border:10px;" allowfullscreen="" loading="lazy">
+          </iframe>
+        
+        </div>
+      <p style="color: white;text-align: center;">
+        
+        Location <i class="fas fa-map-marker-alt"></i><br>
+        Gavali Milk Products Pvt Ltd.<br>
+        801-B, 8th Floor, NRK Business Park,<br> 
+        Block No: B-1, PU-4, Commercial Scheme-54,<br> 
+        Vijay Nagar Square, <br>
+        AB Road, Warwade, Maharashtra, 52010, India<br>
+        
+        <i class="bi bi-geo-alt-fill"></i></p>
